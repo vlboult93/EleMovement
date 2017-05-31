@@ -1,5 +1,3 @@
-#!/home/db903833/dataLand01/enthoughtDistros/epd-7.2-2-rh5-x86/bin/python
-#!/home/db903833/dataLand01/enthoughtDistros/epd-7.3-1-rh5-x86/bin/python
 #!/usr/bin/env python
 """
 Get MODIS data using the ORNL DAAC MODIS web service.
