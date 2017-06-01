@@ -1,7 +1,8 @@
 # EleMovement
+
 Guidance to the files included in this repository
 
-ASCII files (mXXXXXXXndviT.asc) - these files hold Terra-MODIS 16-day composite NDVI values across the Amboseli Ecosystem. Each file represents a 16-day period within the collar period - the date is illuded to in the file name: mXXXXXXXndviT.asc where XXXXXXX provides the Julian date on which the NDVI data collected.
+ASCII files (mXXXXXXXndviT.asc) - these files hold Terra-MODIS 16-day composite NDVI values across the Amboseli Ecosystem. Each file represents a 16-day period within the collar period. The date is alluded to in the file name. Thus in a file mXXXXXXXndviT.asc, XXXXXXX is the Julian date on which the NDVI data collected.
 
 TerraModisNDVI_ImageRetrieve.py - python script used to define the date range and area over which NDVI values should be retrieved. Start and end date, longitude and latitude, and image size are specified. Running the script will output the ASCII files described above.
 
